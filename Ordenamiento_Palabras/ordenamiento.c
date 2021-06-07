@@ -23,7 +23,7 @@ hoja *arbol = NULL;
 //--------------------------------------------------------------------------------------------------------------------DECLARACION DE FUNCIONES
 
 void insertarElemento(char *palabra);//Funcion para agragar y ligar elementos
-void inOrden(hoja *raiz);//Funcion de busqueda basada en un arbol binario (lista doblemente enlazada)
+void inOrden(hoja *raiz);//Funcion de busqueda basada en un arbol binario
 void insertarEnDiccionario(Diccionario *diccionario, char *palabra);
 void escribirArrayInOrden(hoja *raiz);
 
